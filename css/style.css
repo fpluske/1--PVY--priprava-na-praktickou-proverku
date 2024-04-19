@@ -1,0 +1,11 @@
+.seznam1 {
+    list-style-type: decimal;
+}
+
+.seznam2 {
+    list-style-type: disc;
+}
+
+abbr {
+    font-weight: bold;
+}
